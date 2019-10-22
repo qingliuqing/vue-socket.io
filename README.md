@@ -1,9 +1,7 @@
+```
+clone from https://github.com/Aaaaaaaty/vue-im
+```
 
-About: https://github.com/Aaaaaaaty/blog/issues/2
-## Download
-```
-git clone https://github.com/Aaaaaaaty/vue-im
-```
 ## Deploy
 ### Client
 ```
